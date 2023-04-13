@@ -52,7 +52,7 @@ Different Models which are used in the Project:
       * The number of bikes rented on average remains constant throughout Monday - Saturday, it dips on Sunday, and on average, the rented bike counts is lower on weekends than on weekdays.
       * On regular days, the demand for the bikes is higher during rush hours. On holidays or weekends, the demand is comparatively lower in the mornings, and is higher in the afternoons.
 
-      * Conclusion after using different models:
+      ### Conclusion after using different models:
 
             - No overfitting is seen.
             - Random forest Regressor, Gradient Boosting gridsearchcv, XbBoost Regressor with GridSearchCV gives the highest R2 score .
